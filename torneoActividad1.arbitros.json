@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c7"
+  },
+  "nombre_completo": "Carla Gómez",
+  "localidad": "Teusaquillo",
+  "pruebas_supervisadas": [
+    "Libre 50 metros",
+    "Espalda 50 metros"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c8"
+  },
+  "nombre_completo": "Luis Fernández",
+  "localidad": "Usaquén",
+  "pruebas_supervisadas": [
+    "Mariposa 50 metros",
+    "Combinado 100 metros"
+  ]
+}]

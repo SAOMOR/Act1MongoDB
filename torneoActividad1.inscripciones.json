@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c9"
+  },
+  "deportista_id": {
+    "$oid": "6737a71689cf8868d1cb10c2"
+  },
+  "pruebas_inscritas": [
+    "Libre 50 metros",
+    "Mariposa 50 metros"
+  ],
+  "carnet_eps": true,
+  "formato_exencion": true,
+  "autorizacion_padres": true,
+  "visto_bueno_docente": true,
+  "comprobante_pago": true
+},
+{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10ca"
+  },
+  "deportista_id": {
+    "$oid": "6737a71689cf8868d1cb10c3"
+  },
+  "pruebas_inscritas": [
+    "Espalda 50 metros"
+  ],
+  "carnet_eps": true,
+  "formato_exencion": true,
+  "autorizacion_padres": true,
+  "visto_bueno_docente": true,
+  "comprobante_pago": true
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c2"
+  },
+  "nombre_completo": "Juan Pérez",
+  "documento": "123456789",
+  "telefono_acudiente": "3001234567",
+  "telefono_acudiente_alterno": "3009876543",
+  "edad": 15,
+  "genero": "Masculino",
+  "localidad": "Suba",
+  "categoria": "Juvenil II",
+  "prueba_principal": "Libre 50 metros",
+  "pruebas_adicionales": [
+    "Mariposa 50 metros",
+    "Combinado 100 metros"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c3"
+  },
+  "nombre_completo": "Ana Gómez",
+  "documento": "987654321",
+  "telefono_acudiente": "3101234567",
+  "telefono_acudiente_alterno": "3109876543",
+  "edad": 12,
+  "genero": "Femenino",
+  "localidad": "Chapinero",
+  "categoria": "Prejuvenil",
+  "prueba_principal": "Espalda 50 metros",
+  "pruebas_adicionales": [
+    "Pecho 50 metros"
+  ]
+}]

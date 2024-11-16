@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10cb"
+  },
+  "prueba": "Libre 50 metros",
+  "categoria": "Juvenil II",
+  "fecha": {
+    "$date": "2024-12-01T11:00:00.000Z"
+  },
+  "resultados": [
+    {
+      "deportista_id": {
+        "$oid": "6737a71689cf8868d1cb10c2"
+      },
+      "posicion": 1,
+      "tiempo": "28.5",
+      "puntos": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10cc"
+  },
+  "prueba": "Espalda 50 metros",
+  "categoria": "Prejuvenil",
+  "fecha": {
+    "$date": "2024-12-01T11:30:00.000Z"
+  },
+  "resultados": [
+    {
+      "deportista_id": {
+        "$oid": "6737a71689cf8868d1cb10c3"
+      },
+      "posicion": 1,
+      "tiempo": "34.7",
+      "puntos": 10
+    }
+  ]
+}]

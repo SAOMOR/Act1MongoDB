@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c4"
+  },
+  "nombre_prueba": "Libre 50 metros",
+  "descripcion": "Competencia de nado estilo libre en 50 metros.",
+  "categorias_disponibles": [
+    "Prejuvenil",
+    "Juvenil I",
+    "Juvenil II",
+    "Mayores A",
+    "Mayores B",
+    "Mayores C",
+    "Mayores D"
+  ],
+  "participantes": []
+},
+{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c5"
+  },
+  "nombre_prueba": "Mariposa 50 metros",
+  "descripcion": "Competencia de nado estilo mariposa en 50 metros.",
+  "categorias_disponibles": [
+    "Prejuvenil",
+    "Juvenil I",
+    "Juvenil II"
+  ],
+  "participantes": []
+},
+{
+  "_id": {
+    "$oid": "6737a71689cf8868d1cb10c6"
+  },
+  "nombre_prueba": "Combinado 100 metros",
+  "descripcion": "Prueba combinada de los cuatro estilos con 25 metros por estilo.",
+  "categorias_disponibles": [
+    "Juvenil II",
+    "Mayores A",
+    "Mayores B"
+  ],
+  "participantes": []
+}]
